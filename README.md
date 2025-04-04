@@ -14,7 +14,7 @@ Key features of the system include:
 
 This system aims to bridge the gap between complex data and user-friendly insights, making cryptocurrency market analysis more accessible for traders, investors, and enthusiasts alike. Through the integration of AI technology, it offers an efficient and intuitive way to keep up with the fast-paced world of cryptocurrencies.
 
-## Problem & Solutions
+## Problems & Solutions
 ### Problems
 - Traditional platforms lack interactive analysis and prediction features.
 - Market information is fragmented, and cryptocurrency prices fluctuate drastically, making it difficult for general users to quickly understand the trends.

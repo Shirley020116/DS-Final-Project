@@ -10,6 +10,17 @@
 - Incorporate AI predictions and natural language Q&A to enhance user engagement and comprehension.
 - Use web scraping, APIs, and AI model analysis to deliver automated services.
 ## Workflow
+![image](https://github.com/user-attachments/assets/791195ad-e5c1-4857-a0dd-57d43e8099bf)
+1. Data Collection
+2. Data Preprocessing
+3. AI Expert Group (Focus on data analysis & prediction)
+  - Sentiment Analysis: Analyzes the mood and emotions of the market using news articles, social media posts, and other market discussions
+  - Price Prediction: Uses historical price data and advanced machine learning models (LSTM, ARIMA or other regression models)
+  - Market Trend Analysis: provide a comprehensive understanding of the market's direction by integrating sentiment analysis and price prediction
+5. Augmented Generation & Reasoning (Focus on answer & report > interact with user) 
+  - Market Trend Generation
+  - AI Reasoning Engine
+6. Database & Response
 ## Architecture
 - Frontend. 
 - Backend. python +

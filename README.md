@@ -1,4 +1,7 @@
-# DS-Final-Project
-## Automated Crypto Market Analysis: Price Trends and Sentiment Insights
-### Introduction
-###
+# AI Cryptocurrency Price & News Analysis System
+## Project Introduction
+## Problem & Solutions
+## Workflow
+## Architecture
+## Goals & Expansion
+

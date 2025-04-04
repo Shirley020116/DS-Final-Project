@@ -10,7 +10,7 @@
 - Incorporate AI predictions and natural language Q&A to enhance user engagement and comprehension.
 - Use web scraping, APIs, and AI model analysis to deliver automated services.
 ## Workflow
-![image](https://github.com/user-attachments/assets/791195ad-e5c1-4857-a0dd-57d43e8099bf)
+![image](https://github.com/user-attachments/assets/0f929a04-3c95-42e7-8f39-b57ccfe1bb72)
 1. Data Collection
 2. Data Preprocessing
 3. AI Expert Group (Focus on data analysis & prediction)

@@ -39,4 +39,6 @@ This system aims to bridge the gap between complex data and user-friendly insigh
 - Backend. python +
 - Data Source. 
 ## Goals & Expansion
-
+## Video
+1. Video1 第一次進度追蹤：https://youtu.be/B9b9EAH3UIg
+2. Video2 第二次進度追蹤：https://youtu.be/aIMD0Cc1iQg
